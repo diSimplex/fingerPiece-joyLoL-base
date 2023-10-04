@@ -1,0 +1,16 @@
+% !TEX root = joyLoLBase.tex
+% !LPiL preamble = ./jbPreamble.tex
+% !LPiL postamble = ./jbPostamble.tex
+
+\lpilTitle{fp-joylol-base}[
+  Finger Pieces : JoyLoL Base
+]{
+  Finger Pieces : JoyLoL Base
+}
+\author{Stephen Gaito}
+
+\maketitle
+
+\begin{abstract}
+  In this finger piece, we explore the basic theory of JoyLoL.
+\end{abstract}
